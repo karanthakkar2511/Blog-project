@@ -1,0 +1,67 @@
+.blog-app {
+    width: 60%;
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  .post-form input,
+  .post-form textarea {
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+  }
+  
+  .post-form button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .post-form button:hover {
+    background-color: #218838;
+  }
+  
+  .blog-post {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px 0;
+  }
+  
+  .blog-post h2 {
+    margin-bottom: 10px;
+  }
+  
+  .blog-post small {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .blog-post button {
+    margin: 5px;
+  }
+  
+  .App {
+    text-align: center;
+  }
+  
+  .blog-app {
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .blog-post-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 10px;
+  }
+  .blog-post-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 10px;   
+  }
+    
+  
